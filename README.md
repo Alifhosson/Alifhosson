@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 ### Top Repositories
 
 <a href="https://github.com/Alifhosson/alif-media-downloader">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alifhosson&repo=alif-media-downloader&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alifhosson&repo=alif-video-downloader&theme=algolia" />
 </a>
